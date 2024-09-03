@@ -1,2 +1,2 @@
-# Frescho_Swigggy
+# Funnel_Swigggy
 Conducted a comprehensive analysis of Swiggy's 2019 data to uncover key consumer behavior and operational trends. Examined daily session data, channel traffic, and key performance indicators to identify patterns in order volumes and conversion rates. Leveraged data analysis techniques to generate actionable insights that contributed to a 100% analysis score. This project demonstrated proficiency in data manipulation, statistical analysis, and deriving business-relevant conclusions.
